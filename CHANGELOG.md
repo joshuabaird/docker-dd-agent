@@ -1,5 +1,10 @@
 # Changes
 
+## 12.6.5221 / unreleased
+
+- [DEBIAN IMAGES] update the Debian base image to stretch
+- [JMX] ship openjdk 8u151
+
 ## 12.5.5202 / 2018-01-04
 
 ###
